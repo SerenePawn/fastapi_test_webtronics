@@ -3,7 +3,7 @@ Test task project for webtronics
 ### How to run project
 1. Install docker
 2. Print in console in main folder "docker-compose up"
-3. Done!
+3. Done! Go to http://localhost:8010/docs/
 ---
 ### What is realised (bonuses):
 - emailhunter.co verification
