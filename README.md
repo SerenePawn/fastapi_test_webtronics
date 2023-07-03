@@ -7,7 +7,7 @@ Test task project for webtronics
 ---
 ### What is realised (bonuses):
 - emailhunter.co verification
-- post likes/dislikes storing in redis
+- post likes/dislikes store in redis
 ---
 ### Known issues (or things that not included in test task):
 - User can many times like or dislike post
