@@ -1,0 +1,21 @@
+{
+  "debug": true,
+  "salt": "AEZakMEdkwertuyojmgbh.",
+  "db": {
+    "dsn": "postgresql://postgres:postgres@db/fastapi_test_webtronics"
+  },
+  "redis": {
+    "dsn": "redis://redis"
+  },
+  "smtp": {
+    "transport": {
+      "hostname": "mailhog",
+      "port": 1025
+    },
+    "sender": "noreply@template.ru"
+  },
+  "folders": {
+    "static": "./static",
+    "templates": "./templates"
+  }
+}
